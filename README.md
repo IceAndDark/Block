@@ -1,2 +1,2 @@
 # Block
-sample
+Secure digital ledger
